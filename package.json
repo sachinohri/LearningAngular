@@ -2,7 +2,7 @@
     "name": "learning-angular",
     "version": "1.0.0",
     "author": "Sachin Ohri",
-    "description": "Learning Angular",
+    "description": "Learning angular packages",
     "scripts": {
         "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "tsc": "tsc",
