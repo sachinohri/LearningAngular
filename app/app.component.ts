@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-    selector: 'main-app',
+    selector: 'la-app',
     template: `
         <h1>Learning Angular</h1>
     `
